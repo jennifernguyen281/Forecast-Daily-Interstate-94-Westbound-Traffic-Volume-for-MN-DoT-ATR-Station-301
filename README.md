@@ -7,7 +7,7 @@ Predictors in TF models are Average temperature, Amount of rain, and Average per
 
 Some interesting findings: 1) Traffic volume is affected by the Average temprature of 6 days before; 2) Friday is the busiest day of the week; 3) Holidays are less busy than non-holidays.
 
-Models: Seasonal Dummies, Cyclical trend model, Error model, seasonal ARIMA, TF model.
+Models: Seasonal Dummies, Cyclical trend model, Error model, seasonal ARIMA, TF model
 
 
 
